@@ -34,6 +34,11 @@
 [instagram]: https://www.instagram.com/erichao_1129/
 [linkedin]: https://www.linkedin.com/in/eric-koo-wei-hao-ab6879159
 
+<br />
+<br />
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KooWeiHao)
+
 <!--
 **KooWeiHao/KooWeiHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
